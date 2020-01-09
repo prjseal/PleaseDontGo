@@ -1,7 +1,7 @@
 var PDG = PDG || {
 	isOriginalTitle: true,
 	originalTitle: '',
-	leaveMessage: 'ðŸ˜¥ Please dont go!',
+	leaveMessage: 'ðŸ˜¥ Please dont go!!!',
 	init: function() {
 		PDG.originalTitle = document.title;
 		PDG.listeners();
